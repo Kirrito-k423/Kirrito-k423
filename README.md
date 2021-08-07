@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on http://home.ustc.edu.cn/~shaojiemike/
+
 ![](https://github.com/Kirrito-k423/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Kirrito-k423/github-stats/blob/master/generated/languages.svg)
 
