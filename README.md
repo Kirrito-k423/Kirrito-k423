@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey 👋🏽, I'm [Shaojie Tan!](http://home.ustc.edu.cn/~shaojiemike/about)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Kirrito-k423.Kirrito-k423)
 
 🔭 I’m currently working on http://home.ustc.edu.cn/~shaojiemike/
 
