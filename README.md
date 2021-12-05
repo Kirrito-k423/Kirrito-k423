@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirrito-k423&theme=vue)
 
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
