@@ -32,13 +32,15 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 634 Contributions in the Year 2021
+> 🏆 639 Contributions in the Year 2021
  > 
 > 📦 227.3 kB Used in GitHub's Storage 
  > 
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -81,11 +83,11 @@ Mac                      2 hrs 31 mins       ████░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   32.0% 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 ```
 
