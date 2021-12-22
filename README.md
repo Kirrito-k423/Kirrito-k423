@@ -32,13 +32,15 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2036%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 665 Contributions in the Year 2021
+> 🏆 668 Contributions in the Year 2021
  > 
 > 📦 233.5 kB Used in GitHub's Storage 
  > 
