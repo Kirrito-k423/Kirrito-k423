@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
@@ -56,21 +54,18 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 40 mins       █████████████████████████   99.52% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Markdown                 26 mins             ████████████████████████░   98.1% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  27 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shaojiemike              2 hrs 39 mins       ████████████████████████░   98.9% 
-SA21011013_谭邵杰_并行程序设计实验代码1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+shaojiemike              26 mins             ████████████████████████░   98.1% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        ██████████████░░░░░░░░░░░   56.03% 
-Windows                  1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.97%
+Windows                  27 mins             █████████████████████████   100.0%
 
 ```
 
@@ -91,6 +86,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2022
+ Last Updated on 16/01/2022
 <!--END_SECTION:waka-->
 
