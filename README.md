@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
@@ -56,18 +54,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 26 mins             ████████████████████████░   98.1% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+Markdown                 18 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+VS Code                  18 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shaojiemike              26 mins             ████████████████████████░   98.1% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+shaojiemike              18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.0%
+Windows                  18 mins             █████████████████████████   100.0%
 
 ```
 
@@ -88,6 +84,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2022
+ Last Updated on 18/01/2022
 <!--END_SECTION:waka-->
 
