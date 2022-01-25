@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 23 Contributions in the Year 2022
+> 🏆 31 Contributions in the Year 2022
  > 
-> 📦 311.3 kB Used in GitHub's Storage 
+> 📦 311.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,16 +54,17 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         █████████████████████████   100.0%
+Markdown                 1 hr 54 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+VS Code                  1 hr 54 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shaojiemike              1 hr 9 mins         █████████████████████████   100.0%
+shaojiemike              1 hr 50 mins        ████████████████████████░   96.59% 
+QuickStartLinux          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.0%
+Windows                  1 hr 54 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,6 +85,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 01:46:03 UTC
+ Last Updated on 25/01/2022 01:50:06 UTC
 <!--END_SECTION:waka-->
 
