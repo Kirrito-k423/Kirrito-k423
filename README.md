@@ -32,15 +32,13 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 31 Contributions in the Year 2022
+> 🏆 32 Contributions in the Year 2022
  > 
 > 📦 311.2 kB Used in GitHub's Storage 
  > 
@@ -56,19 +54,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 41 mins       █████████████████████████   100.0% 
+Markdown                 4 hrs 48 mins       █████████████████████████   100.0% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 48 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shaojiemike              2 hrs 36 mins       ████████████████████████░   96.54% 
-QuickStartLinux          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-yearresolution           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+shaojiemike              4 hrs 42 mins       ████████████████████████░   98.06% 
+QuickStartLinux          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+yearresolution           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.0%
+Windows                  4 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
@@ -89,6 +87,6 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 13:04:27 UTC
+ Last Updated on 26/01/2022 01:54:05 UTC
 <!--END_SECTION:waka-->
 
