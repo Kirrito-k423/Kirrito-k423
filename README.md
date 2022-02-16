@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
@@ -56,22 +54,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 hrs 5 mins       ███████████████████████░░   94.57% 
-Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+Python                   36 hrs 5 mins       ████████████████████████░   98.79% 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
 Batchfile                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  38 hrs 9 mins       █████████████████████████   100.0%
+VS Code                  36 hrs 31 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-waterRPA                 36 hrs 11 mins      ███████████████████████░░   94.87% 
-shaojiemike              1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+waterRPA                 36 hrs 11 mins      ████████████████████████░   99.1% 
+shaojiemike              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Windows                  38 hrs 9 mins       █████████████████████████   100.0%
+Windows                  36 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +90,6 @@ C                        3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2022 13:02:20 UTC
+ Last Updated on 16/02/2022 01:55:11 UTC
 <!--END_SECTION:waka-->
 
