@@ -32,17 +32,15 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2056%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 311 Contributions in the Year 2022
+> 🏆 314 Contributions in the Year 2022
  > 
-> 📦 320.7 kB Used in GitHub's Storage 
+> 📦 353.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,24 +54,24 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 39 mins      █████████████████░░░░░░░░   70.48% 
-Markdown                 5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.77% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+Python                   11 hrs 8 mins       █████████████████░░░░░░░░   70.78% 
+Markdown                 4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.42% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  19 hrs 22 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 44 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-repetitionSocialNetwork  14 hrs 40 mins      ███████████████████░░░░░░   75.76% 
-shaojiemike              3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
-tsjPython                51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-Unknown Project          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
-AutoMihoyoBBS-master     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+repetitionSocialNetwork  11 hrs 17 mins      ██████████████████░░░░░░░   71.78% 
+shaojiemike              3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32% 
+tsjPython                51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+Unknown Project          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+AutoMihoyoBBS-master     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 💻 Operating System: 
-Windows                  19 hrs 22 mins      █████████████████████████   100.0%
+Windows                  15 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,6 +92,6 @@ C                        3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/04/2022 13:08:41 UTC
+ Last Updated on 24/04/2022 02:21:19 UTC
 <!--END_SECTION:waka-->
 
