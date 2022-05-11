@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 🏆 383 Contributions in the Year 2022
  > 
-> 📦 534.5 kB Used in GitHub's Storage 
+> 📦 534.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,6 +95,6 @@ C                        3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 02:41:32 UTC
+ Last Updated on 11/05/2022 13:25:02 UTC
 <!--END_SECTION:waka-->
 
