@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,18 +56,17 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs               ████████████████████████░   98.43% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+Markdown                 2 hrs 54 mins       ████████████████████████░   98.02% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 57 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shaojiemike              3 hrs 19 mins       ████████████████████░░░░░   81.67% 
-Unknown Project          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.33%
+shaojiemike              2 hrs 57 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 4 mins        █████████████████████████   100.0%
+Windows                  2 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,6 +87,6 @@ C                        3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/06/2022 13:18:18 UTC
+ Last Updated on 04/06/2022 02:26:56 UTC
 <!--END_SECTION:waka-->
 
