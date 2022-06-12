@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,22 +56,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   46 mins             █████████████░░░░░░░░░░░░   51.84% 
-Markdown                 39 mins             ███████████░░░░░░░░░░░░░░   43.77% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+Markdown                 19 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shaojiemike              39 mins             ███████████░░░░░░░░░░░░░░   43.77% 
-ClassIn-Video-Download   22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91% 
-classin-downloader       16 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
-tsjClassIn               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68%
+shaojiemike              19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.0%
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +86,6 @@ C                        3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2022 13:04:51 UTC
+ Last Updated on 12/06/2022 02:47:10 UTC
 <!--END_SECTION:waka-->
 
