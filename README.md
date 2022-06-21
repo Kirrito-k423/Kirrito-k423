@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 421 Contributions in the Year 2022
+> 🏆 426 Contributions in the Year 2022
  > 
 > 📦 534.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 24 Private Repositories  
  > 
@@ -73,11 +73,11 @@ Windows                  4 hrs 23 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   37.84% 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+Python                   15 repos            █████████░░░░░░░░░░░░░░░░   39.47% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
 
 ```
 
@@ -87,6 +87,6 @@ C                        3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 02:44:45 UTC
+ Last Updated on 21/06/2022 13:19:11 UTC
 <!--END_SECTION:waka-->
 
