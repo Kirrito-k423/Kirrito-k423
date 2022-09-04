@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,33 +50,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 25 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      22 hrs 47 mins      ██████████████████░░░░░░░   75.07% 
-Other                    4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
-
-🔥 Editors: 
-VS Code                  30 hrs 21 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-IPCC2022-final           28 hrs 43 mins      ███████████████████████░░   94.59% 
-shaojiemike              1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
-IPCC2022-preliminary     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-bhive-re                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
-
-💻 Operating System: 
-Linux                    29 hrs 4 mins       ████████████████████████░   95.78% 
-Windows                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.22%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -94,6 +67,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 13:13:09 UTC
+ Last Updated on 04/09/2022 03:22:56 UTC
 <!--END_SECTION:waka-->
 
