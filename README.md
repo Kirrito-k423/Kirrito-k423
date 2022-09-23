@@ -32,21 +32,21 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 846 Contributions in the Year 2022
+> 🏆 847 Contributions in the Year 2022
  > 
-> 📦 629.1 kB Used in GitHub's Storage 
+> 📦 669.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 25 Private Repositories  
  > 
@@ -56,29 +56,31 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        █████████████████████████   100.0% 
+Markdown                 2 hrs 22 mins       ███████████████████████░░   95.28% 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 29 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                2 hrs 2 mins        █████████████████████████   99.91% 
-QuickStartLinux          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+hugoMinos                2 hrs 21 mins       ███████████████████████░░   95.21% 
+clang3.5                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+QuickStartLinux          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.0%
+Windows                  2 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
-C++                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89%
+Python                   18 repos            █████████░░░░░░░░░░░░░░░░   39.13% 
+C++                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 
@@ -88,6 +90,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 03:37:50 UTC
+ Last Updated on 23/09/2022 13:37:47 UTC
 <!--END_SECTION:waka-->
 
