@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 876 Contributions in the Year 2022
+> 🏆 878 Contributions in the Year 2022
  > 
-> 📦 784.5 kB Used in GitHub's Storage 
+> 📦 784.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +56,18 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 48 mins       ████████████████████████░   98.02% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+Markdown                 4 hrs 15 mins       ████████████████████████░   98.23% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                3 hrs 48 mins       ████████████████████████░   98.02% 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+hugoMinos                4 hrs 15 mins       ████████████████████████░   98.23% 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.0%
+Windows                  4 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,6 +88,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2022 13:41:11 UTC
+ Last Updated on 04/10/2022 03:09:55 UTC
 <!--END_SECTION:waka-->
 
