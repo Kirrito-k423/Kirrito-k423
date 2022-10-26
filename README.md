@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
 
@@ -56,20 +56,20 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       █████████████████████████   99.98% 
+Markdown                 2 hrs 13 mins       █████████████████████████   99.98% 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 14 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 37 mins        ████████████████░░░░░░░░░   66.18% 
-QuickStartLinux          49 mins             ████████░░░░░░░░░░░░░░░░░   33.8% 
+hugoMinos                1 hr 24 mins        ███████████████░░░░░░░░░░   63.0% 
+QuickStartLinux          49 mins             █████████░░░░░░░░░░░░░░░░   36.98% 
 ShadowVerseRankDrop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████░░░░░░░░   70.84% 
-Mac                      42 mins             ███████░░░░░░░░░░░░░░░░░░   29.16%
+Windows                  1 hr 38 mins        ██████████████████░░░░░░░   73.63% 
+Mac                      35 mins             ██████░░░░░░░░░░░░░░░░░░░   26.37%
 
 ```
 
@@ -90,6 +90,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 13:44:46 UTC
+ Last Updated on 26/10/2022 03:04:07 UTC
 <!--END_SECTION:waka-->
 
