@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -56,18 +56,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              ████████████████████████░   96.25% 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+Python                   43 mins             ████████████████████████░   97.34% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  44 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                0 secs              ████████████████████████░   96.25% 
-ShadowVerseRankDrop      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+BHive-Prediction-Compare 43 mins             ████████████████████████░   97.27% 
+hugoMinos                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+ShadowVerseRankDrop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  44 mins             █████████████████████████   100.0%
 
 ```
 
@@ -88,6 +89,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/10/2022 13:15:45 UTC
+ Last Updated on 30/10/2022 03:19:46 UTC
 <!--END_SECTION:waka-->
 
