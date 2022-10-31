@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
 
@@ -56,19 +56,18 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   43 mins             ████████████████████████░   97.34% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
+Python                   43 mins             ███████████████████░░░░░░   78.62% 
+Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38%
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.0%
+VS Code                  54 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-BHive-Prediction-Compare 43 mins             ████████████████████████░   97.27% 
-hugoMinos                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
-ShadowVerseRankDrop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+BHive-Prediction-Compare 43 mins             ███████████████████░░░░░░   78.62% 
+hugoMinos                11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38%
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -89,6 +88,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 13:17:51 UTC
+ Last Updated on 31/10/2022 03:09:36 UTC
 <!--END_SECTION:waka-->
 
