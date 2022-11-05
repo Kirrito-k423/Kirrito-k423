@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -56,20 +56,20 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 6 mins        ██████████████████████░░░   87.52% 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+Markdown                 7 hrs 8 mins        ██████████████████████░░░   89.11% 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  8 hrs               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                6 hrs 6 mins        ██████████████████████░░░   87.52% 
-BHive-Prediction-Compare 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
-test                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+hugoMinos                7 hrs 8 mins        ██████████████████████░░░   89.11% 
+BHive-Prediction-Compare 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+test                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████████   100.0%
+Windows                  8 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -90,6 +90,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 13:31:51 UTC
+ Last Updated on 05/11/2022 02:45:05 UTC
 <!--END_SECTION:waka-->
 
