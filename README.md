@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2023
+> 🏆 29 Contributions in the Year 2023
  > 
-> 📦 794.1 kB Used in GitHub's Storage 
+> 📦 794.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,16 +56,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        ████████████████████████░   99.45% 
+Markdown                 1 hr 17 mins        ████████████████████████░   99.45% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 🔥 Editors: 
 VS Code                  1 hr 17 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 16 mins        ████████████████████████░   99.33% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-tv-namer                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+hugoMinos                1 hr 17 mins        ████████████████████████░   99.45% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 💻 Operating System: 
 Windows                  1 hr 17 mins        █████████████████████████   100.0%
@@ -89,6 +88,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 13:07:39 UTC
+ Last Updated on 17/01/2023 02:08:55 UTC
 <!--END_SECTION:waka-->
 
