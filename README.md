@@ -32,17 +32,17 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2023
+> 🏆 42 Contributions in the Year 2023
  > 
-> 📦 794.4 kB Used in GitHub's Storage 
+> 📦 794.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,20 +56,20 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        ████████████████████████░   99.35% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+Markdown                 1 hr 55 mins        ████████████████████████░   99.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.0%
+VS Code                  1 hr 56 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 17 mins        ████████████████████████░   98.43% 
-ShadowVerseRankDrop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+hugoMinos                1 hr 55 mins        ████████████████████████░   98.95% 
+ShadowVerseRankDrop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.0%
+Windows                  1 hr 56 mins        █████████████████████████   100.0%
 
 ```
 
@@ -90,6 +90,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2023 13:04:35 UTC
+ Last Updated on 19/01/2023 02:12:57 UTC
 <!--END_SECTION:waka-->
 
