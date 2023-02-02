@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.0%
+Markdown                 25 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  25 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-hugoMinos                0 secs              █████████████████████████   100.0%
+hugoMinos                25 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -86,6 +86,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 13:07:04 UTC
+ Last Updated on 02/02/2023 02:12:59 UTC
 <!--END_SECTION:waka-->
 
