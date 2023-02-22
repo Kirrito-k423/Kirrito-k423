@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ███████████████████████░░   93.13 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Markdown                 1 hr 13 mins        ███████████████████████░░   93.19 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
 VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
@@ -77,9 +77,9 @@ Windows                  1 hr 18 mins        ███████████�
 ```text
 Python                   20 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
 C++                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 ```
 
@@ -89,6 +89,6 @@ C                        4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/02/2023 13:00:47 UTC
+ Last Updated on 22/02/2023 02:09:09 UTC
 <!--END_SECTION:waka-->
 
