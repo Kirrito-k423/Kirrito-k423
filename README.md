@@ -36,40 +36,37 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 163 Contributions in the Year 2023
- > 
 > 📦 794.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 163 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 60 Public Repositories 
  > 
-> 🔑 25 Private Repositories  
+> 🔑 25 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ███████████████████████░░   93.19 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 59 mins             █████████████████████████   99.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 18 mins        █████████████████████████   100.00 % 
+hugoMinos                59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
-
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,17 +75,17 @@ Windows                  1 hr 18 mins        ███████████�
 Python                   20 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
 C++                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Cuda                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2023 13:02:21 UTC
+ Last Updated on 23/02/2023 02:04:48 UTC
 <!--END_SECTION:waka-->
 
