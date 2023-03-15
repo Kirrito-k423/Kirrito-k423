@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -56,17 +56,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 22 mins        ███████████████████████░░   92.40 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 1 hr 41 mins        ███████████████████████░░   93.62 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 29 mins        █████████████████████████   100.00 % 
+hugoMinos                1 hr 48 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,6 +87,6 @@ Cuda                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 13:09:56 UTC
+ Last Updated on 15/03/2023 01:56:49 UTC
 <!--END_SECTION:waka-->
 
