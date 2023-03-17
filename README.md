@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 795.0 kB Used in GitHub's Storage 
  > 
-> 🏆 201 Contributions in the Year 2023
+> 🏆 206 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,6 +87,6 @@ Cuda                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2023 01:55:28 UTC
+ Last Updated on 17/03/2023 12:58:11 UTC
 <!--END_SECTION:waka-->
 
