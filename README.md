@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 795.0 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2023
+> 🏆 209 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +56,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 22 mins        ██████████████████████░░░   89.48 % 
-Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 1 hr 21 mins        ██████████████████████░░░   87.94 % 
+Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 31 mins        █████████████████████████   100.00 % 
+hugoMinos                1 hr 31 mins        █████████████████████████   98.44 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,6 +90,6 @@ Cuda                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2023 12:54:37 UTC
+ Last Updated on 19/03/2023 02:08:06 UTC
 <!--END_SECTION:waka-->
 
