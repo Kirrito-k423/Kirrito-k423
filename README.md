@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
@@ -69,18 +69,18 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 24 mins        █████████████████████░░░░   83.67 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 1 hr 25 mins        █████████████████████░░░░   83.79 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
 VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugoMinos                1 hr 39 mins        █████████████████████████   98.57 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+hugoMinos                1 hr 40 mins        █████████████████████████   98.58 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
 Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
@@ -103,6 +103,6 @@ Cuda                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2023 12:58:57 UTC
+ Last Updated on 24/03/2023 01:52:22 UTC
 <!--END_SECTION:waka-->
 
