@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 795.1 kB Used in GitHub's Storage 
+> 📦 795.3 kB Used in GitHub's Storage 
  > 
-> 🏆 292 Contributions in the Year 2023
+> 🏆 297 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  739 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Wednesday                576 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Thursday                 571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Friday                   638 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Saturday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Monday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Tuesday                  739 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Wednesday                576 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   643 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Saturday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 ```
 
 
@@ -103,6 +103,6 @@ Cuda                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 01:54:08 UTC
+ Last Updated on 31/03/2023 12:56:09 UTC
 <!--END_SECTION:waka-->
 
