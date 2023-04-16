@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 795.9 kB Used in GitHub's Storage 
  > 
-> 🏆 346 Contributions in the Year 2023
+> 🏆 347 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Tuesday                  743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                582 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  743 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Wednesday                582 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 Thursday                 577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 Friday                   650 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 Saturday                 596 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Sunday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Sunday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
 
@@ -103,6 +103,6 @@ Cuda                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2023 12:51:06 UTC
+ Last Updated on 16/04/2023 01:55:43 UTC
 <!--END_SECTION:waka-->
 
