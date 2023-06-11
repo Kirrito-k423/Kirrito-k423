@@ -69,16 +69,17 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 31 mins        ██████████████████████░░░   87.75 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LeetCode                 1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,6 +99,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2023 12:50:29 UTC
+ Last Updated on 11/06/2023 02:22:36 UTC
 <!--END_SECTION:waka-->
 
