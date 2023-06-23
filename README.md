@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 803.7 kB Used in GitHub's Storage 
+> 📦 803.5 kB Used in GitHub's Storage 
  > 
-> 🏆 680 Contributions in the Year 2023
+> 🏆 682 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  788 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Wednesday                631 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Thursday                 618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  788 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Wednesday                631 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Friday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Saturday                 628 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Sunday                   564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Sunday                   564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 
@@ -98,6 +98,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2023 02:16:07 UTC
+ Last Updated on 23/06/2023 13:00:26 UTC
 <!--END_SECTION:waka-->
 
