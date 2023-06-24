@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 803.5 kB Used in GitHub's Storage 
+> 📦 804.1 kB Used in GitHub's Storage 
  > 
-> 🏆 682 Contributions in the Year 2023
+> 🏆 687 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  788 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Wednesday                631 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Friday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Saturday                 628 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Sunday                   564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Monday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Tuesday                  789 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Wednesday                631 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Saturday                 628 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Sunday                   564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 
@@ -69,16 +69,17 @@ Sunday                   564 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              █████████████████████████   99.16 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,6 +99,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2023 13:00:26 UTC
+ Last Updated on 24/06/2023 02:14:45 UTC
 <!--END_SECTION:waka-->
 
