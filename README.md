@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 802.3 kB Used in GitHub's Storage 
+> 📦 802.0 kB Used in GitHub's Storage 
  > 
 > 🏆 731 Contributions in the Year 2023
  > 
@@ -98,6 +98,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2023 13:00:33 UTC
+ Last Updated on 15/07/2023 02:18:29 UTC
 <!--END_SECTION:waka-->
 
