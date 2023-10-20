@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 848.2 kB Used in GitHub's Storage 
+> 📦 851.2 kB Used in GitHub's Storage 
  > 
-> 🏆 997 Contributions in the Year 2023
+> 🏆 1,001 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  844 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Wednesday                717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Friday                   782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Saturday                 661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Sunday                   592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Monday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Tuesday                  844 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Wednesday                717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Saturday                 661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Sunday                   592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 
 
@@ -98,6 +98,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 01:36:16 UTC
+ Last Updated on 20/10/2023 12:54:04 UTC
 <!--END_SECTION:waka-->
 
