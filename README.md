@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.2 MB Used in GitHub's Storage 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,178 Contributions in the Year 2023
+> 🏆 1,223 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Tuesday                  864 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   837 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Saturday                 684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Sunday                   626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Monday                   607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Tuesday                  894 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Wednesday                743 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Friday                   837 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Saturday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Sunday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 ```
 
 
@@ -98,6 +98,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 12:51:04 UTC
+ Last Updated on 22/11/2023 01:44:17 UTC
 <!--END_SECTION:waka-->
 
