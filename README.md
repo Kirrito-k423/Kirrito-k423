@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,307 Contributions in the Year 2023
+> 🏆 1,318 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Tuesday                  898 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Wednesday                770 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Thursday                 756 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Sunday                   653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Monday                   641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  898 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                770 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Thursday                 767 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Friday                   852 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Saturday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 ```
 
 
@@ -98,6 +98,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 12:54:49 UTC
+ Last Updated on 01/12/2023 01:48:12 UTC
 <!--END_SECTION:waka-->
 
