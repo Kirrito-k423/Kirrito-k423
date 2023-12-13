@@ -34,59 +34,28 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.6 MB Used in GitHub's Storage 
+> 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,410 Contributions in the Year 2023
+> 🏆 1,494 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 74 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Tuesday                  928 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Wednesday                789 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Friday                   869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Sunday                   685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-C                        5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Roff                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   22 repos            █████████░░░░░░░░░░░░░░░░   37.29 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+C                        5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Roff                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
@@ -96,6 +65,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 01:42:28 UTC
+ Last Updated on 13/12/2023 01:44:40 UTC
 <!--END_SECTION:waka-->
 
