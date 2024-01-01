@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,717 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,6 +98,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 12:53:04 UTC
+ Last Updated on 01/01/2024 01:49:54 UTC
 <!--END_SECTION:waka-->
 
