@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2024
+> 🏆 183 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   759 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Wednesday                882 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Thursday                 882 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Friday                   957 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Saturday                 769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Sunday                   776 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Monday                   759 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Tuesday                  1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                882 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 882 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Friday                   957 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Saturday                 769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Sunday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
@@ -106,6 +106,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2024 12:53:53 UTC
+ Last Updated on 15/01/2024 01:49:10 UTC
 <!--END_SECTION:waka-->
 
