@@ -32,17 +32,15 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2041%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 MB Used in GitHub's Storage 
+> 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 712 Contributions in the Year 2024
+> 🏆 736 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +51,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   895 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Tuesday                  1141 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                978 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 990 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Monday                   902 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Tuesday                  1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Wednesday                978 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 990 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Saturday                 874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Sunday                   926 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -69,16 +67,17 @@ Sunday                   920 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 54 mins       █████████████████████████   100.00 % 
+Python                   41 mins             ████████████████████████░   96.30 % 
+SSH Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iwara-file-classifier    2 hrs 54 mins       █████████████████████████   100.00 % 
+iwara-file-classifier    43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,6 +97,6 @@ Roff                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2024 01:37:23 UTC
+ Last Updated on 13/03/2024 01:45:37 UTC
 <!--END_SECTION:waka-->
 
