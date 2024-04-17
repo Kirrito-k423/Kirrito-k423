@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20million%20lines%20of%20code-blue)
@@ -49,13 +51,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Tuesday                  1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Wednesday                1014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Thursday                 1029 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Friday                   1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 892 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Sunday                   961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Monday                   946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Tuesday                  1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Wednesday                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Thursday                 1029 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Friday                   1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 892 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Sunday                   961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 
 
@@ -94,6 +96,6 @@ Roff                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 03:47:24 UTC
+ Last Updated on 17/04/2024 12:55:51 UTC
 <!--END_SECTION:waka-->
 
