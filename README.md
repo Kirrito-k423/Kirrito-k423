@@ -32,34 +32,32 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2057%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.3 MB Used in GitHub's Storage 
+> 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,039 Contributions in the Year 2024
+> 🏆 1,072 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 77 Public Repositories 
+> 📜 78 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   948 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Tuesday                  1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Saturday                 913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Sunday                   962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Monday                   951 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Tuesday                  1227 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Wednesday                1034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Friday                   1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Saturday                 918 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   963 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 ```
 
 
@@ -98,6 +96,6 @@ Roff                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2024 01:44:03 UTC
+ Last Updated on 04/05/2024 01:47:12 UTC
 <!--END_SECTION:waka-->
 
