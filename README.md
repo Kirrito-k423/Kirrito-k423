@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2057%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.9%20million%20lines%20of%20code-blue)
 
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,190 Contributions in the Year 2024
+> 🏆 1,206 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +51,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   992 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Tuesday                  1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Wednesday                1059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 1081 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Friday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Monday                   1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Tuesday                  1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Wednesday                1059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Thursday                 1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Saturday                 943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Sunday                   978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 
 
@@ -98,6 +96,6 @@ Roff                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 13:01:16 UTC
+ Last Updated on 10/06/2024 13:06:45 UTC
 <!--END_SECTION:waka-->
 
