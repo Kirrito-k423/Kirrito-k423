@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.8 MB Used in GitHub's Storage 
+> 📦 3.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,293 Contributions in the Year 2024
+> 🏆 1,305 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,13 +51,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Tuesday                  1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Wednesday                1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Thursday                 1111 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Friday                   1176 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Saturday                 958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Sunday                   988 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Monday                   1017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tuesday                  1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 1118 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Friday                   1179 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   988 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 ```
 
 
@@ -96,6 +96,6 @@ Roff                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 13:05:35 UTC
+ Last Updated on 28/08/2024 13:06:58 UTC
 <!--END_SECTION:waka-->
 
