@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on https://www.shaojiemike.top
 
-👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
+👯 My Company: https://www.hiascend.com/, My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
 
 ![](https://github.com/Kirrito-k423/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Kirrito-k423/github-stats/blob/master/generated/languages.svg)
