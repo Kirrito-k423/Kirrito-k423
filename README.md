@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,564 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 80 Public Repositories 
@@ -98,6 +96,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 13:12:41 UTC
+ Last Updated on 25/10/2024 13:11:32 UTC
 <!--END_SECTION:waka-->
 
