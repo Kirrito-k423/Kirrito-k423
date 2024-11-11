@@ -34,11 +34,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.8 MB Used in GitHub's Storage 
+> 📦 4.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,659 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,13 +51,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Tuesday                  1343 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Wednesday                1108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 1198 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Friday                   1268 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Saturday                 988 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   1025 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Monday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  1343 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Wednesday                1108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Thursday                 1198 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Friday                   1268 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Saturday                 1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Sunday                   1028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 ```
 
 
@@ -65,16 +67,16 @@ Sunday                   1025 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hugoMinos                12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,6 +96,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 13:10:20 UTC
+ Last Updated on 11/11/2024 02:13:19 UTC
 <!--END_SECTION:waka-->
 
