@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 5.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,708 Contributions in the Year 2024
+> 🏆 1,710 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  1355 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Wednesday                1108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 1219 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Monday                   1099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  1355 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                1108 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Thursday                 1219 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Friday                   1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 1022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Sunday                   1028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Saturday                 1022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   1031 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 ```
 
 
@@ -98,6 +98,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 02:26:22 UTC
+ Last Updated on 17/11/2024 13:09:40 UTC
 <!--END_SECTION:waka-->
 
