@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 > 📦 5.4 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 85 Public Repositories 
+> 📜 86 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   1130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Tuesday                  1396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Tuesday                  1396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Wednesday                1129 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Thursday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Thursday                 1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Friday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Saturday                 1031 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Sunday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 ```
 
 
@@ -98,6 +98,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 13:10:56 UTC
+ Last Updated on 04/01/2025 13:09:10 UTC
 <!--END_SECTION:waka-->
 
