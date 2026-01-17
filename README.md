@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.4 MB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 57 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Tuesday                  1323 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Wednesday                1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Thursday                 1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Saturday                 958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Sunday                   950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Monday                   858 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  897 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                804 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Thursday                 893 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Friday                   812 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 706 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Sunday                   748 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 ```
 
 
@@ -98,6 +98,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 02:35:20 UTC
+ Last Updated on 17/01/2026 13:19:29 UTC
 <!--END_SECTION:waka-->
 
