@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Tuesday                  1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Wednesday                974 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Thursday                 1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Saturday                 891 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   868 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Monday                   853 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  887 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Wednesday                814 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 883 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Friday                   814 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Saturday                 695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sunday                   738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 ```
 
 
@@ -69,17 +69,17 @@ Sunday                   868 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       ███████████████████████░░   91.63 % 
-YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Markdown                 4 hrs 7 mins        ████████████████████████░   94.51 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugoMinosMini            2 hrs 52 mins       █████████████████████████   100.00 % 
+hugoMinosMini            4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 14:00:42 UTC
+ Last Updated on 05/02/2026 03:30:18 UTC
 <!--END_SECTION:waka-->
 
