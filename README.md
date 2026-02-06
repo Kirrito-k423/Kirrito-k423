@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,17 +69,17 @@ Sunday                   738 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 7 mins        ████████████████████████░   94.51 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown                 4 hrs 54 mins       ████████████████████████░   95.33 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugoMinosMini            4 hrs 22 mins       █████████████████████████   100.00 % 
+hugoMinosMini            5 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 13:58:41 UTC
+ Last Updated on 06/02/2026 03:29:32 UTC
 <!--END_SECTION:waka-->
 
