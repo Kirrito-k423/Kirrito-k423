@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://github.com/Kirrito-k423/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Kirrito-k423/github-stats/blob/master/generated/languages.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirrito-k423&theme=flag-india&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirrito-k423&theme=vue)
 
