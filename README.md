@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,16 +50,16 @@ Here are some ideas to get you started:
  > 
 > 🔑 26 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  1345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Wednesday                1122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday                 1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Friday                   1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 1009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sunday                   975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Monday                   869 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Tuesday                  904 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Wednesday                845 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 932 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Friday                   847 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Saturday                 739 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Sunday                   763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 ```
 
 
@@ -98,6 +98,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 13:37:00 UTC
+ Last Updated on 15/03/2026 04:00:47 UTC
 <!--END_SECTION:waka-->
 
