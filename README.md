@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1336 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Tuesday                  1624 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Wednesday                1333 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Thursday                 1471 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Friday                   1407 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Saturday                 1223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Sunday                   1118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Monday                   1222 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Tuesday                  1485 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Wednesday                1229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 1343 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Friday                   1337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Saturday                 1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Sunday                   1052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 
 
@@ -98,6 +98,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 14:32:10 UTC
+ Last Updated on 27/03/2026 03:57:01 UTC
 <!--END_SECTION:waka-->
 
