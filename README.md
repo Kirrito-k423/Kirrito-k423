@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Kirrito-k423/Kirrito-k423/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2046%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.47%20million%20lines%20of%20code-blue?style=flat)
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 
 > 📦 8.2 MB Used in GitHub's Storage 
  > 
-> 🏆 533 Contributions in the Year 2026
+> 🏆 535 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,6 +50,37 @@ Here are some ideas to get you started:
  > 
 > 🔑 26 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Tuesday                  1351 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Wednesday                1141 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Friday                   1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Saturday                 1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Sunday                   997 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -65,6 +98,6 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kirrito-k423/Kirrito-k423/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 04:45:52 UTC
+ Last Updated on 15/05/2026 15:13:03 UTC
 <!--END_SECTION:waka-->
 
