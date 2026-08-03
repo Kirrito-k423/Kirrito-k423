@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Hey 👋🏽, I'm [Shaojie Tan!](http://home.ustc.edu.cn/~shaojiemike/about)
 
+📄 Resume / CV: [中文](https://kirrito-k423.github.io/ResumeOnline/zh/) · [English](https://kirrito-k423.github.io/ResumeOnline/en/)
+
 🔭 I’m currently working on https://www.shaojiemike.top
 
 👯 My Company: https://www.hiascend.com/, My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
